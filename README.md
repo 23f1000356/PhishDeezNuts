@@ -1,7 +1,8 @@
 # PhishDeezNuts - AI-Powered Phishing Email Detection
 
 PhishDeezNuts is a sophisticated email security application that uses machine learning, rule-based analysis, and Google's Gemini AI to detect phishing attempts in your Gmail inbox.
-
+##Video of working
+https://youtu.be/C7EZDW05sXw
 ## Working Demo
 <p align="center">
   <img src="LoginPage.png">
